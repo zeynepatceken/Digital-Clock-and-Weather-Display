@@ -13,7 +13,7 @@ function updateClock() {
 
 // Hava durumu verilerini getiren işlev
 function getWeather() {
-    const apiKey = 'API_KEYİNİ_BURAYA_YERLEŞTİR'; // OpenWeather API anahtarı
+    const apiKey = '43b2104e1bb9e62ccbca9a681b96275a'; // OpenWeather API anahtarı
     const city = 'Istanbul'; // Burada sabit bir şehir seçtim, dinamik de yapılabilir
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&lang=tr&appid=${apiKey}`;
 
