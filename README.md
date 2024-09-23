@@ -1,4 +1,4 @@
-# Dijital Saat ve Hava Durumu Gösterici
+# Dijital Saat ve Hava Durumu Gösterici ☀️
 
 Bu proje, kullanıcının dijital saatini ve seçilen şehir için hava durumu bilgisini gösteren bir web uygulamasıdır. Zaman ve tarih sürekli olarak güncellenir ve hava durumu verisi OpenWeather API'den çekilir.
 
